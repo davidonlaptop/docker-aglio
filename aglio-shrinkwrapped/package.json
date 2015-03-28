@@ -1,0 +1,11 @@
+{
+  "name": "aglio-shrinkwrapped",
+  "version": "1.16.1",
+  "description": "Aglio with specific dependencies that are known to work with this version of aglio (see npm-shrinkwrap.json)",
+  "bin": {
+    "aglio": "./node_modules/aglio/bin/aglio.js"
+  },
+  "dependencies": {
+    "aglio": "1.16.1"
+  }
+}
