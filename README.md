@@ -7,8 +7,8 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-- [`1.16.1-frozen`, `latest` _(aglio-1.16/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v1.16.1-frozen/aglio-1.16-frozen/Dockerfile)  based on [`Ubuntu:14.04.2`](https://registry.hub.docker.com/_/ubuntu/) image. This is Aglio with its dependencies frozen.
-
+- [`1.16.1-frozen`_(aglio-1.16/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v1.16.1-frozen/aglio-1.16-frozen/Dockerfile)  based on [`Ubuntu:14.04.2`](https://registry.hub.docker.com/_/ubuntu/) image. This is Aglio with frozen dependencies.
+- [`1.18.0`, `latest` _(aglio-1.18/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v1.18.0/aglio-1.18/Dockerfile)  based on [`Ubuntu:14.04.2`](https://registry.hub.docker.com/_/ubuntu/) image.
 
 
 ## What is Aglio ?
