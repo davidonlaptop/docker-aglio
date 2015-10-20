@@ -8,8 +8,9 @@
 ## Supported tags and respective `Dockerfile` links
 
 - [`1.16.1-frozen`_(aglio-1.16/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v1.16.1-frozen/aglio-1.16-frozen/Dockerfile)  based on [`Ubuntu`](https://registry.hub.docker.com/_/ubuntu/) image. This is Aglio with frozen dependencies.
-- [`1.18.0`, `latest` _(aglio-1.18/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v1.18.0/aglio-1.18/Dockerfile)  based on [`Node`](https://registry.hub.docker.com/_/node/) image.
-
+- [`1.18.0` _(aglio-1.18/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v1.18.0/aglio-1.18/Dockerfile)  based on [`Node`](https://registry.hub.docker.com/_/node/) image.
+- [`2.0.0` _(aglio-2.0/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v2.0.0/aglio-2.0/Dockerfile)  based on [`Node`](https://registry.hub.docker.com/_/node/) image.
+- [`2.1.1`, `latest` _(aglio-2.1/Dockerfile)_](https://github.com/davidonlaptop/docker-aglio/tree/v2.1.1/aglio-2.1/Dockerfile)  based on [`Node`](https://registry.hub.docker.com/_/node/) image.
 
 ## What is Aglio ?
 An [API Blueprint](http://apiblueprint.org/) renderer that supports multiple themes and outputs static HTML that can be served by any web host. API Blueprint is a Markdown-based document format that lets you write API descriptions and documentation in a simple and straightforward way. Currently supported is [API Blueprint format 1A](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md).
